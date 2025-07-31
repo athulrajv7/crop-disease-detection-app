@@ -1,0 +1,14 @@
+# Image handling
+opencv-python
+Pillow
+
+# Array + math support
+numpy
+
+# Optional for visualization
+matplotlib
+
+# Machine Learning 
+# scikit-learn
+# tensorflow
+# torch
